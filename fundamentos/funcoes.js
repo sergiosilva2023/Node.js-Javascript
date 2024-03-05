@@ -50,4 +50,5 @@ multiplicaM(5,5)
 
 let somarAFS = (n1, n2) => (console.log(n1+n2))
 somarAFS(5,5)
+console.log(typeof somarAFS)
 
